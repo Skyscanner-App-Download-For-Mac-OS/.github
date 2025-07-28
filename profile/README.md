@@ -1,5 +1,3 @@
-# Skyscanner-for-mac
-
 # Skyscanner — Download For Mac OS
 
 Skyscanner for Mac is your all-in-one travel planning app. With the native macOS app, you can seamlessly compare flights, hotels, and car rentals across thousands of providers in real time. Enjoy a streamlined experience for booking your next trip with ease—right from your Mac.
