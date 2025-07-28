@@ -66,11 +66,11 @@ Optimized for both Apple Silicon and Intel Macs, the app ensures smooth performa
 
 *Flight and hotel search interface*
 
-![Skyscanner Booking View](https://i.postimg.cc/QMPk1MYR/alibaba-tracking-list.png)
+![Skyscanner Booking View](https://www.partners.skyscanner.net/hs-fs/hubfs/Macbook-RH-Crop.jpg?width=1888&height=1481&name=Macbook-RH-Crop.jpg)
 *Trip overview and pricing*
 
 ---
 
 ## 🔍 Tags
 
-skyscanner for mac, skyscanner app, sky scanne r, skyscanner application,skyscanner app mac, skyscanner mac download, skyscanner macos, download skyscanner for mac
+skyscanner, skyscanner download, skyscanner dekstop, skyscanner mac, skyscanner for mac, skyscanner app, sky scanne r, skyscanner application, skyscanner app mac, skyscanner mac download, skyscanner macos, download skyscanner for mac
